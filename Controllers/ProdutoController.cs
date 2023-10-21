@@ -49,5 +49,4 @@ public class ProdutoController : ControllerBase
     {
         return NoContent();
     }
-    
 }
